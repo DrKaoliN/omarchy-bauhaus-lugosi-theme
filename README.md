@@ -60,9 +60,10 @@ sepia and bone monochrome gothic arcade, tall pointed tracery windows, a pale mo
 
 An homage to:
 
-- **"Bela Lugosi's Dead"** by Bauhaus (1979), the song that gave goth its first anthem, and this theme its name.
-- **Mary Shelley**, author of *Frankenstein*, for gothic romance by candlelight.
-- **The Sandman**, the TV series, for its moonlit, dreamlike gloom.
+* **"Bela Lugosi's Dead"** by Bauhaus (1979). Nine and a half minutes of echo and dread, often called goth's first anthem, and the reason for this theme's name.
+* **Bela Lugosi's films**, above all *Dracula* (1931). Black-and-white castles, candlelit halls, a pale moon over the mountains and bats against the night sky. The palette is the silver screen gone sepia; the backgrounds are the kind of rooms and ruins he haunted.
+
+Lugosi was born Béla Blaskó in Lugos, today's Lugoj in Romania, and took his stage name from his hometown.
 
 ## License
 
