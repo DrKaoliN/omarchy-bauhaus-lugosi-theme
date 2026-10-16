@@ -40,19 +40,9 @@ Click a thumbnail for the full-size image.
     <td><a href="backgrounds/3.png"><img src="assets/thumbnails/3.png" width="220" alt="Three arches over misty mountains"></a></td>
   </tr>
   <tr>
-    <td>1. Cathedral window</td>
-    <td>2. Twisted tree</td>
-    <td>3. Three arches</td>
-  </tr>
-  <tr>
     <td><a href="backgrounds/4.png"><img src="assets/thumbnails/4.png" width="220" alt="Round moon window in a candlelit parlor"></a></td>
     <td><a href="backgrounds/5.png"><img src="assets/thumbnails/5.png" width="220" alt="Dead tree inside a round window, library"></a></td>
     <td><a href="backgrounds/6.png"><img src="assets/thumbnails/6.png" width="220" alt="Castle and bats through a round stone arch"></a></td>
-  </tr>
-  <tr>
-    <td>4. Candlelit parlor</td>
-    <td>5. Library tree</td>
-    <td>6. Castle arch</td>
   </tr>
 </table>
 
