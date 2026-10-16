@@ -1,6 +1,6 @@
 # Bauhaus-Lugosi
 
-A year-round goth theme in sepia and bone: olive-charcoal blacks, parchment text and a single candle-amber accent, taken from its moonlit gothic backgrounds.
+Warm charcoal, parchment and candle amber: a sepia goth theme for all year round.
 
 ![Bauhaus-Lugosi preview](preview.png)
 
