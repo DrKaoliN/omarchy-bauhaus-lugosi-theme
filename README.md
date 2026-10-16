@@ -2,6 +2,8 @@
 
 A year-round goth theme in sepia and bone: olive-charcoal blacks, parchment text and a single candle-amber accent, taken from its moonlit gothic backgrounds.
 
+![Bauhaus-Lugosi preview](preview.png)
+
 ![Bauhaus-Lugosi palette](palettes.png)
 
 ## Install
