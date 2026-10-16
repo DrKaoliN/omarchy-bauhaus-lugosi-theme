@@ -50,7 +50,7 @@ sepia and bone monochrome gothic arcade, tall pointed tracery windows, a pale mo
 
 ## Inspiration
 
-A homage to:
+An homage to:
 
 - **"Bela Lugosi's Dead"** by Bauhaus (1979), the song that gave goth its first anthem, and this theme its name.
 - **Mary Shelley**, author of *Frankenstein*, for gothic romance by candlelight.
