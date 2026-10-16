@@ -31,12 +31,30 @@ If you change `colors.toml`, re-render these files so they stay in sync.
 
 ## Backgrounds
 
-1. Gothic cathedral window, full moon and bats, overgrown hall
-2. Round moon window with a twisted tree
-3. Three arches over misty mountains
-4. Round moon window in a candlelit parlour
-5. Dead tree inside a round window, library
-6. Castle and bats through a round stone arch
+Click a thumbnail for the full-size image.
+
+<table>
+  <tr>
+    <td><a href="backgrounds/1.png"><img src="assets/thumbnails/1.png" width="220" alt="Gothic cathedral window, full moon and bats, overgrown hall"></a></td>
+    <td><a href="backgrounds/2.png"><img src="assets/thumbnails/2.png" width="220" alt="Round moon window with a twisted tree"></a></td>
+    <td><a href="backgrounds/3.png"><img src="assets/thumbnails/3.png" width="220" alt="Three arches over misty mountains"></a></td>
+  </tr>
+  <tr>
+    <td>1. Cathedral window</td>
+    <td>2. Twisted tree</td>
+    <td>3. Three arches</td>
+  </tr>
+  <tr>
+    <td><a href="backgrounds/4.png"><img src="assets/thumbnails/4.png" width="220" alt="Round moon window in a candlelit parlor"></a></td>
+    <td><a href="backgrounds/5.png"><img src="assets/thumbnails/5.png" width="220" alt="Dead tree inside a round window, library"></a></td>
+    <td><a href="backgrounds/6.png"><img src="assets/thumbnails/6.png" width="220" alt="Castle and bats through a round stone arch"></a></td>
+  </tr>
+  <tr>
+    <td>4. Candlelit parlor</td>
+    <td>5. Library tree</td>
+    <td>6. Castle arch</td>
+  </tr>
+</table>
 
 To make more in the same style, use one of these prompts and add an existing background as a style reference with `--sref <image-url>`. Upscale, save into `backgrounds/` as the next number, for example `7.png`.
 
