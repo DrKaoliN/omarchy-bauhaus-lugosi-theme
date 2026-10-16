@@ -46,16 +46,6 @@ Click a thumbnail for the full-size image.
   </tr>
 </table>
 
-To make more in the same style, use one of these prompts and add an existing background as a style reference with `--sref <image-url>`. Upscale, save into `backgrounds/` as the next number, for example `7.png`.
-
-```
-sepia and bone monochrome gothic interior, a huge round window framing a pale full moon, bats drifting across a misty valley with craggy mountains, overgrown vines and bare twisted branches, dusty victorian furniture in deep shadow, parchment-white light, olive-charcoal blacks, matte painting, soft volumetric light, calm center --ar 16:9 --style raw --no text, letters, watermark, signature, frame
-```
-
-```
-sepia and bone monochrome gothic arcade, tall pointed tracery windows, a pale moon behind fog, bats in silhouette, ivy and ferns on stone, a single candle glowing amber, olive-charcoal shadows, matte painting, quiet and symmetrical --ar 16:9 --style raw --no text, letters, watermark, signature, frame
-```
-
 ## Inspiration
 
 An homage to:
