@@ -46,6 +46,14 @@ sepia and bone monochrome gothic interior, a huge round window framing a pale fu
 sepia and bone monochrome gothic arcade, tall pointed tracery windows, a pale moon behind fog, bats in silhouette, ivy and ferns on stone, a single candle glowing amber, olive-charcoal shadows, matte painting, quiet and symmetrical --ar 16:9 --style raw --no text, letters, watermark, signature, frame
 ```
 
+## Inspiration
+
+A homage to:
+
+- **"Bela Lugosi's Dead"** by Bauhaus (1979), the song that gave goth its first anthem, and this theme its name.
+- **Mary Shelley**, author of *Frankenstein*, for gothic romance by candlelight.
+- **The Sandman**, the TV series, for its moonlit, dreamlike gloom.
+
 ## License
 
 MIT for the theme files. The background images were generated with Midjourney and are not covered; see [LICENSE](LICENSE).
